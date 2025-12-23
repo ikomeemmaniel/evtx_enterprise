@@ -1,0 +1,12 @@
+# Ignore large log files
+*.evtx
+*.log
+
+# Python/Flask stuff
+__pycache__/
+venv/
+.env
+instance/
+venv/
+*.evtx
+__pycache__/
